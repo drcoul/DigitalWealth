@@ -7,7 +7,7 @@ cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP
 software written by Thomas Bernard.
 
 
-See readme-qt.rst for instructions on building Linda QT, the
+See readme-qt.rst for instructions on building dCoin QT, the
 graphical user interface.
 
 WINDOWS BUILD NOTES
@@ -47,7 +47,7 @@ Secp256k1    include in src folder
 
 OpenSSL
 -------
-MSYS Linda:
+MSYS dCoin:
 un-tar sources with MSYS 'tar xfz' to avoid issue with symlinks (OpenSSL ticket 2377)
 change 'MAKE' env. variable from 'C:\MinGW32\bin\mingw32-make.exe' to '/c/MinGW32/bin/mingw32-make.exe'
 
@@ -57,7 +57,7 @@ make
 
 Berkeley DB
 -----------
-MSYS Linda:
+MSYS dCoin:
 
     cd /c/dev/coindeps32/db-4.8.30.NC-mgw/build_unix
     sh ../dist/configure --enable-mingw --enable-cxx
@@ -73,7 +73,7 @@ DOS prompt:
 
 Secp256k1
 -----------
-MSYS Linda:
+MSYS dCoin:
 
     ./autogen.sh
     ./configure
@@ -84,17 +84,17 @@ MiniUPnPc
 ---------
 UPnP support is optional, make with USE_UPNP= to disable it.
 
-MSYS Linda:
+MSYS dCoin:
 
     cd /c/miniupnpc-1.6-mgw
     make -f Makefile.mingw
     mkdir miniupnpc
     cp *.h miniupnpc/
 
-Build Lindad
+Build dCoind
 -------
 DOS prompt:
 
-    cd \Linda\src
+    cd \dCoin\src
     mingw32-make -f makefile.mingw
-    strip Lindad.exe
+    strip dCoind.exe

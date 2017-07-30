@@ -74,7 +74,7 @@ string strMasterNodeAddr = "";
 bool fLiteMode = false;
 int nInstantXDepth = 1;
 int nDarksendRounds = 2;
-int nAnonymizeLindaAmount = 500;
+int nAnonymizedCoinAmount = 500;
 int nLiquidityProvider = 0;
 /** Spork enforcement enabled time */
 int64_t enforceMasternodePaymentsTime = 4085657524;
@@ -1045,7 +1045,7 @@ static std::string FormatException(std::exception* pex, const char* pszThread)
     char pszModule[MAX_PATH] = "";
     GetModuleFileNameA(NULL, pszModule, sizeof(pszModule));
 #else
-    const char* pszModule = "Linda";
+    const char* pszModule = "dCoin";
 #endif
     if (pex)
         return strprintf(
@@ -1075,13 +1075,13 @@ void PrintExceptionContinue(std::exception* pex, const char* pszThread)
 boost::filesystem::path GetDefaultDataDir()
 {
     namespace fs = boost::filesystem;
-    // Windows < Vista: C:\Documents and Settings\Username\Application Data\Linda
-    // Windows >= Vista: C:\Users\Username\AppData\Roaming\Linda
-    // Mac: ~/Library/Application Support/Linda
-    // Unix: ~/.Linda
+    // Windows < Vista: C:\Documents and Settings\Username\Application Data\dCoin
+    // Windows >= Vista: C:\Users\Username\AppData\Roaming\dCoin
+    // Mac: ~/Library/Application Support/dCoin
+    // Unix: ~/.dCoin
 #ifdef WIN32
     // Windows
-    return GetSpecialFolderPath(CSIDL_APPDATA) / "Linda";
+    return GetSpecialFolderPath(CSIDL_APPDATA) / "dCoin";
 #else
     fs::path pathRet;
     char* pszHome = getenv("HOME");
@@ -1093,10 +1093,10 @@ boost::filesystem::path GetDefaultDataDir()
     // Mac
     pathRet /= "Library/Application Support";
     fs::create_directory(pathRet);
-    return pathRet / "Linda";
+    return pathRet / "dCoin";
 #else
     // Unix
-    return pathRet / ".Linda";
+    return pathRet / ".dCoin";
 #endif
 #endif
 }
@@ -1178,7 +1178,7 @@ void ClearDatadirCache()
 
 boost::filesystem::path GetConfigFile()
 {
-    boost::filesystem::path pathConfigFile(GetArg("-conf", "Linda.conf"));
+    boost::filesystem::path pathConfigFile(GetArg("-conf", "dCoin.conf"));
     if (!pathConfigFile.is_complete()) pathConfigFile = GetDataDir(false) / pathConfigFile;
     return pathConfigFile;
 }
@@ -1194,7 +1194,7 @@ void ReadConfigFile(map<string, string>& mapSettingsRet,
                     map<string, vector<string> >& mapMultiSettingsRet)
 {
     boost::filesystem::ifstream streamConfig(GetConfigFile());
-    if (!streamConfig.good()) //Linda.conf doesn't exist
+    if (!streamConfig.good()) //dCoin.conf doesn't exist
     {
         createConf();
         new(&streamConfig) boost::filesystem::ifstream(GetConfigFile());
@@ -1223,7 +1223,7 @@ void ReadConfigFile(map<string, string>& mapSettingsRet,
 
 boost::filesystem::path GetPidFile()
 {
-    boost::filesystem::path pathPidFile(GetArg("-pid", "Lindad.pid"));
+    boost::filesystem::path pathPidFile(GetArg("-pid", "dCoind.pid"));
     if (!pathPidFile.is_complete()) pathPidFile = GetDataDir() / pathPidFile;
     return pathPidFile;
 }

@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Linda</source>
-        <translation>O Lindau</translation>
+        <source>About dCoin</source>
+        <translation>O dCoinu</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Linda&lt;/b&gt; version</source>
-        <translation>Verze &lt;b&gt;Lindau&lt;/b&gt; </translation>
+        <source>&lt;b&gt;dCoin&lt;/b&gt; version</source>
+        <translation>Verze &lt;b&gt;dCoinu&lt;/b&gt; </translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Linda developers</source>
+Copyright © 2014 The dCoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Linda developers</translation>
+Copyright © 2014 The dCoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your Linda addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Tato jsou tvé Linda adresy pro příjem plateb. Každému odesílateli můžeš dát jinou adresu, aby jsi mohl sledovat, kdo ti platí.</translation>
+        <source>These are your dCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Tato jsou tvé dCoin adresy pro příjem plateb. Každému odesílateli můžeš dát jinou adresu, aby jsi mohl sledovat, kdo ti platí.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a Linda address</source>
-        <translation>Podepiš zprávu, aby jsi dokázal, že vlastníš tuto Linda adresu.</translation>
+        <source>Sign a message to prove you own a dCoin address</source>
+        <translation>Podepiš zprávu, aby jsi dokázal, že vlastníš tuto dCoin adresu.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified Linda address</source>
-        <translation>Ověř zprávu, aby jsi zajistil, že byla podepsaná určitou Linda adresou.</translation>
+        <source>Verify a message to ensure it was signed with a specified dCoin address</source>
+        <translation>Ověř zprávu, aby jsi zajistil, že byla podepsaná určitou dCoin adresou.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>Linda will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Pro dokončení procesu šifrování se Linda nyní zavře, Pamatuj, že zašifrování tvé peněženky nemůže plně ochránit tvé mince před krádeží, pokud máš počítač infikován malwerem.</translation>
+        <source>dCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Pro dokončení procesu šifrování se dCoin nyní zavře, Pamatuj, že zašifrování tvé peněženky nemůže plně ochránit tvé mince před krádeží, pokud máš počítač infikován malwerem.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -352,8 +352,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Linda</source>
-        <translation>Zobraz informace a Lindau</translation>
+        <source>Show information about dCoin</source>
+        <translation>Zobraz informace a dCoinu</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -392,13 +392,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a Linda address</source>
-        <translation>Odešli mince na Linda adresu</translation>
+        <source>Send coins to a dCoin address</source>
+        <translation>Odešli mince na dCoin adresu</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for Linda</source>
-        <translation>Uprav možnosti konfigurace pro Linda</translation>
+        <source>Modify configuration options for dCoin</source>
+        <translation>Uprav možnosti konfigurace pro dCoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -438,8 +438,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+551"/>
-        <source>Linda</source>
-        <translation>Linda</translation>
+        <source>dCoin</source>
+        <translation>dCoin</translation>
     </message>
     <message>
         <location line="-551"/>
@@ -448,8 +448,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About Linda</source>
-        <translation>&amp;O Lindau</translation>
+        <source>&amp;About dCoin</source>
+        <translation>&amp;O dCoinu</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>Linda client</source>
-        <translation>Linda klient</translation>
+        <source>dCoin client</source>
+        <translation>dCoin klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Linda network</source>
-        <translation><numerusform>%n aktivní spojení do Linda sítě</numerusform><numerusform>%n aktivních spojení do Linda sítě</numerusform><numerusform>%n aktivních spojení do Linda sítě</numerusform></translation>
+        <source>%n active connection(s) to dCoin network</source>
+        <translation><numerusform>%n aktivní spojení do dCoin sítě</numerusform><numerusform>%n aktivních spojení do dCoin sítě</numerusform><numerusform>%n aktivních spojení do dCoin sítě</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -600,8 +600,8 @@ Adresa: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Linda address or malformed URI parameters.</source>
-        <translation>URI nejde rozparsovat! To může být způsobeno neplatnou Linda adresou nebo chybnými URI parametry.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid dCoin address or malformed URI parameters.</source>
+        <translation>URI nejde rozparsovat! To může být způsobeno neplatnou dCoin adresou nebo chybnými URI parametry.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -723,8 +723,8 @@ Adresa: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. Linda can no longer continue safely and will quit.</source>
-        <translation>Došlo k závažné chybě. Linda již nemůže dále bezpečně pokračovat a bude ukončen.</translation>
+        <source>A fatal error occurred. dCoin can no longer continue safely and will quit.</source>
+        <translation>Došlo k závažné chybě. dCoin již nemůže dále bezpečně pokračovat a bude ukončen.</translation>
     </message>
 </context>
 <context>
@@ -1057,8 +1057,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Linda address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; není platná Linda adresa.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid dCoin address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; není platná dCoin adresa.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1076,8 +1076,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>Linda-Qt</source>
-        <translation>Linda-Qt</translation>
+        <source>dCoin-Qt</source>
+        <translation>dCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1149,13 +1149,13 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Linda after logging in to the system.</source>
-        <translation>Automaticky spustit Linda po přihlášení do systému.</translation>
+        <source>Automatically start dCoin after logging in to the system.</source>
+        <translation>Automaticky spustit dCoin po přihlášení do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Linda on system login</source>
-        <translation>&amp;Spustit Linda při přihlášení do systému</translation>
+        <source>&amp;Start dCoin on system login</source>
+        <translation>&amp;Spustit dCoin při přihlášení do systému</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1164,8 +1164,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Linda client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otevřít port Linda klienta na routeru. Funguje to jen tehdy, když router podporuje UPnP a je povoleno.</translation>
+        <source>Automatically open the dCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otevřít port dCoin klienta na routeru. Funguje to jen tehdy, když router podporuje UPnP a je povoleno.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1174,8 +1174,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Linda network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Připoj se do sítě Linda přes SOCKS proxy (např. při připojení přes Tor)</translation>
+        <source>Connect to the dCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Připoj se do sítě dCoin přes SOCKS proxy (např. při připojení přes Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1249,8 +1249,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Linda.</source>
-        <translation>Zde můžeš nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartu Lindau.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting dCoin.</source>
+        <translation>Zde můžeš nastavit jazyk uživatelského rozhraní. Nastavení se projeví až po restartu dCoinu.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1316,8 +1316,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Linda.</source>
-        <translation>Nastavení se projeví až po restartu Lindau.</translation>
+        <source>This setting will take effect after restarting dCoin.</source>
+        <translation>Nastavení se projeví až po restartu dCoinu.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1335,8 +1335,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Linda network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informace můžou být zastaralé. Tvá peněženka se automaticky synchronizuje s Linda sítí po navázaní spojení, ale tento proces ještě není dokončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the dCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informace můžou být zastaralé. Tvá peněženka se automaticky synchronizuje s dCoin sítí po navázaní spojení, ale tento proces ještě není dokončený.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1409,7 +1409,7 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start Linda: click-to-pay handler</source>
+        <source>Cannot start dCoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1577,8 +1577,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Linda-Qt help message to get a list with possible Linda command-line options.</source>
-        <translation>Zobrazit Linda-Qt nápovědu pro zobrazení seznam dostupným možností příkazového řádku.</translation>
+        <source>Show the dCoin-Qt help message to get a list with possible dCoin command-line options.</source>
+        <translation>Zobrazit dCoin-Qt nápovědu pro zobrazení seznam dostupným možností příkazového řádku.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1597,13 +1597,13 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Linda - Debug window</source>
-        <translation>Linda - Ladící okno</translation>
+        <source>dCoin - Debug window</source>
+        <translation>dCoin - Ladící okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Linda Core</source>
-        <translation>Jádro Lindau</translation>
+        <source>dCoin Core</source>
+        <translation>Jádro dCoinu</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1612,8 +1612,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Linda debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otevři logovací soubor Lindau z aktuálního datového adresáře. Pro velké logy to může trvat několik sekund.</translation>
+        <source>Open the dCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otevři logovací soubor dCoinu z aktuálního datového adresáře. Pro velké logy to může trvat několik sekund.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1622,8 +1622,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the Linda RPC console.</source>
-        <translation>Vítej v Linda RPC konzoli.</translation>
+        <source>Welcome to the dCoin RPC console.</source>
+        <translation>Vítej v dCoin RPC konzoli.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1816,8 +1816,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Linda address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Napiš Linda adresu (např. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a dCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Napiš dCoin adresu (např. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1916,8 +1916,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid Linda address</source>
-        <translation>UPOZORNĚNÍ: Neplatná Linda adresa</translation>
+        <source>WARNING: Invalid dCoin address</source>
+        <translation>UPOZORNĚNÍ: Neplatná dCoin adresa</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1990,8 +1990,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Linda address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadej Linda adresu (např. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a dCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadej dCoin adresu (např. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2051,8 +2051,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Linda address</source>
-        <translation>Podepiš zprávu jako důkaz, že vlastníš tuto Linda adresu</translation>
+        <source>Sign the message to prove you own this dCoin address</source>
+        <translation>Podepiš zprávu jako důkaz, že vlastníš tuto dCoin adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2083,8 +2083,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Linda address</source>
-        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou Linda adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified dCoin address</source>
+        <translation>Ověř zprávu, aby ses ujistil, že byla podepsána danou dCoin adresou</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2094,8 +2094,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Linda address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadej Linda adresu (např. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a dCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadej dCoin adresu (např. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2104,8 +2104,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Linda signature</source>
-        <translation>Zadej Linda podpis</translation>
+        <source>Enter dCoin signature</source>
+        <translation>Zadej dCoin podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2683,8 +2683,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+173"/>
-        <source>Linda version</source>
-        <translation>Verze Lindau</translation>
+        <source>dCoin version</source>
+        <translation>Verze dCoinu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2693,8 +2693,8 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or Lindad</source>
-        <translation>Pošli příkaz na -server nebo Lindad</translation>
+        <source>Send command to -server or dCoind</source>
+        <translation>Pošli příkaz na -server nebo dCoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2713,13 +2713,13 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: Linda.conf)</source>
-        <translation>Urči konfigurační soubor (výchozí: Linda.conf)</translation>
+        <source>Specify configuration file (default: dCoin.conf)</source>
+        <translation>Urči konfigurační soubor (výchozí: dCoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Lindad.pid)</source>
-        <translation>Urči pid soubor (výchozí: Lindad.pid)</translation>
+        <source>Specify pid file (default: dCoind.pid)</source>
+        <translation>Urči pid soubor (výchozí: dCoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2736,13 +2736,13 @@ To znamená, že je potřebný poplatek ve výši nejméně %2.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=Lindarpc
+rpcuser=dCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Linda Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;dCoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2848,8 +2848,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Linda Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Linda will not work properly.</source>
-        <translation>Upozornění: Zkontroluj prosím datum a čas tvého počítače! Pokud jdou tvé hodiny špatně, tak Linda nebude pracovat správně. </translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong dCoin will not work properly.</source>
+        <translation>Upozornění: Zkontroluj prosím datum a čas tvého počítače! Pokud jdou tvé hodiny špatně, tak dCoin nebude pracovat správně. </translation>
     </message>
     <message>
         <location line="+132"/>
@@ -3155,7 +3155,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Linda Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+10"/>
-        <source>Initialization sanity check failed. Linda is shutting down.</source>
+        <source>Initialization sanity check failed. dCoin is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3220,13 +3220,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Linda Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Linda</source>
-        <translation>Chyba načítání wallet.dat: Peněženka vyžaduje novější verzi Lindau</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of dCoin</source>
+        <translation>Chyba načítání wallet.dat: Peněženka vyžaduje novější verzi dCoinu</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Linda to complete</source>
-        <translation>Peněženka by potřebovala být přepsána: restartuj Linda pro dokončení</translation>
+        <source>Wallet needed to be rewritten: restart dCoin to complete</source>
+        <translation>Peněženka by potřebovala být přepsána: restartuj dCoin pro dokončení</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3290,8 +3290,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Linda Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+125"/>
-        <source>Unable to bind to %s on this computer. Linda is probably already running.</source>
-        <translation>Nemůžu se svázat s %s na tomto počítači. Linda nejspíše již běží.</translation>
+        <source>Unable to bind to %s on this computer. dCoin is probably already running.</source>
+        <translation>Nemůžu se svázat s %s na tomto počítači. dCoin nejspíše již běží.</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3330,7 +3330,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Linda Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Linda is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. dCoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

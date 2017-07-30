@@ -77,7 +77,7 @@ map<uint256, set<uint256> > mapOrphanTransactionsByPrev;
 // Constant stuff for coinbase transactions we create:
 CScript COINBASE_FLAGS;
 
-const string strMessageMagic = "Linda Signed Message:\n";
+const string strMessageMagic = "dCoin Signed Message:\n";
 
 extern enum Checkpoints::CPMode CheckpointsMode;
 
@@ -781,7 +781,7 @@ bool AcceptableInputs(CTxMemPool& pool, const CTransaction &txo, bool fLimitFree
         return tx.DoS(100, error("AcceptableInputs : coinstake as individual tx"));
 
     // Rather not work on nonstandard transactions (unless -testnet)
-    //alot of Linda transactions seem non standard, its a bug so we have to accept these, the transactions have still been checekd to be valid and unspent.
+    //alot of dCoin transactions seem non standard, its a bug so we have to accept these, the transactions have still been checekd to be valid and unspent.
     string reason;
     if (false && !TestNet() && !IsStandardTx(tx, reason))
         return error("AcceptableInputs : nonstandard transaction: %s",
@@ -2762,7 +2762,7 @@ bool ProcessBlock(CNode* pfrom, CBlock* pblock)
 }
 
 #ifdef ENABLE_WALLET
-// Linda: attempt to generate suitable proof-of-stake
+// dCoin: attempt to generate suitable proof-of-stake
 bool CBlock::SignBlock(CWallet& wallet, int64_t nFees)
 {
     // if we are trying to sign
@@ -3113,7 +3113,7 @@ struct CImportingNow
 
 void ThreadImport(std::vector<boost::filesystem::path> vImportFiles)
 {
-    RenameThread("Linda-loadblk");
+    RenameThread("dCoin-loadblk");
 
     CImportingNow imp;
 

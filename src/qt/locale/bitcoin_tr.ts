@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Linda</source>
-        <translation>Linda Hakkında</translation>
+        <source>About dCoin</source>
+        <translation>dCoin Hakkında</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Linda&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Linda&lt;/b&gt; versiyonu</translation>
+        <source>&lt;b&gt;dCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;dCoin&lt;/b&gt; versiyonu</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Linda developers</source>
+Copyright © 2014 The dCoin developers</source>
         <translation>Telif Hakkı © 2009-2014 Bitcoin geliştiricileri
 Telif Hakkı © 2012-2014 NovaCoin geliştiricileri
-Telif Hakkı © 2014 Linda geliştiricileri</translation>
+Telif Hakkı © 2014 dCoin geliştiricileri</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your Linda addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Bunlar, ödeme almak için Linda adreslerinizdir. Her bir göndericiye farklı birini verebilir, böylece size kimin ödeme yaptığını takip edebilirsiniz.</translation>
+        <source>These are your dCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Bunlar, ödeme almak için dCoin adreslerinizdir. Her bir göndericiye farklı birini verebilir, böylece size kimin ödeme yaptığını takip edebilirsiniz.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -80,8 +80,8 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a Linda address</source>
-        <translation>Bir Linda adresine sahip olduğunu ispatlamak için bir mesaj imzala</translation>
+        <source>Sign a message to prove you own a dCoin address</source>
+        <translation>Bir dCoin adresine sahip olduğunu ispatlamak için bir mesaj imzala</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified Linda address</source>
-        <translation>Mesajın, belirli bir Linda adresiyle imzalandığından emin olmak için onu doğrula</translation>
+        <source>Verify a message to ensure it was signed with a specified dCoin address</source>
+        <translation>Mesajın, belirli bir dCoin adresiyle imzalandığından emin olmak için onu doğrula</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     </message>
     <message>
         <location line="+82"/>
-        <source>Linda will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Linda, şifreleme işlemini tamamlamak için şimdi kapatılacak. Cüzdanınızı şifrelemenin; coinlerinizin, bilgisayarınızı etkileyen zararlı yazılımlar tarafından çalınmasını bütünüyle engelleyemeyebileceğini unutmayınız.</translation>
+        <source>dCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>dCoin, şifreleme işlemini tamamlamak için şimdi kapatılacak. Cüzdanınızı şifrelemenin; coinlerinizin, bilgisayarınızı etkileyen zararlı yazılımlar tarafından çalınmasını bütünüyle engelleyemeyebileceğini unutmayınız.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -357,8 +357,8 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Linda</source>
-        <translation>Linda hakkındaki bilgiyi göster</translation>
+        <source>Show information about dCoin</source>
+        <translation>dCoin hakkındaki bilgiyi göster</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -397,13 +397,13 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a Linda address</source>
-        <translation>Bir Linda adresine coin gönder</translation>
+        <source>Send coins to a dCoin address</source>
+        <translation>Bir dCoin adresine coin gönder</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for Linda</source>
-        <translation>Linda yapılandırma seçeneklerini değiştir</translation>
+        <source>Modify configuration options for dCoin</source>
+        <translation>dCoin yapılandırma seçeneklerini değiştir</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -443,8 +443,8 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     <message>
         <location line="-214"/>
         <location line="+551"/>
-        <source>Linda</source>
-        <translation>Linda</translation>
+        <source>dCoin</source>
+        <translation>dCoin</translation>
     </message>
     <message>
         <location line="-551"/>
@@ -453,8 +453,8 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About Linda</source>
-        <translation>Linda &amp;Hakkında</translation>
+        <source>&amp;About dCoin</source>
+        <translation>dCoin &amp;Hakkında</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -505,13 +505,13 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>Linda client</source>
-        <translation>Linda istemcisi</translation>
+        <source>dCoin client</source>
+        <translation>dCoin istemcisi</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Linda network</source>
-        <translation><numerusform>Linda ağına %n etkin bağlantı</numerusform><numerusform>Linda ağına %n etkin bağlantı</numerusform></translation>
+        <source>%n active connection(s) to dCoin network</source>
+        <translation><numerusform>dCoin ağına %n etkin bağlantı</numerusform><numerusform>dCoin ağına %n etkin bağlantı</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -605,8 +605,8 @@ Adres: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Linda address or malformed URI parameters.</source>
-        <translation>URI ayrıştırılamadı! Bu, geçersiz bir Linda adresi veya hatalı URI parametreleri nedeniyle olabilir.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid dCoin address or malformed URI parameters.</source>
+        <translation>URI ayrıştırılamadı! Bu, geçersiz bir dCoin adresi veya hatalı URI parametreleri nedeniyle olabilir.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -728,8 +728,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. Linda can no longer continue safely and will quit.</source>
-        <translation>Önemli bir hata oluştu. Linda artık güvenli bir şekilde devam edemez ve şimdi kapatılacak.</translation>
+        <source>A fatal error occurred. dCoin can no longer continue safely and will quit.</source>
+        <translation>Önemli bir hata oluştu. dCoin artık güvenli bir şekilde devam edemez ve şimdi kapatılacak.</translation>
     </message>
 </context>
 <context>
@@ -1062,8 +1062,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Linda address.</source>
-        <translation>Girilen %1 adresi, geçerli bir Linda adresi değildir.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid dCoin address.</source>
+        <translation>Girilen %1 adresi, geçerli bir dCoin adresi değildir.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1081,8 +1081,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>Linda-Qt</source>
-        <translation>Linda-Qt</translation>
+        <source>dCoin-Qt</source>
+        <translation>dCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1154,13 +1154,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Linda after logging in to the system.</source>
-        <translation>Sisteme giriş yaptıktan sonra Linda&apos;i otomatik olarak başlat</translation>
+        <source>Automatically start dCoin after logging in to the system.</source>
+        <translation>Sisteme giriş yaptıktan sonra dCoin&apos;i otomatik olarak başlat</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Linda on system login</source>
-        <translation>Sisteme girişte Linda&apos;i &amp;başlat</translation>
+        <source>&amp;Start dCoin on system login</source>
+        <translation>Sisteme girişte dCoin&apos;i &amp;başlat</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1169,8 +1169,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Linda client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Yönelticide Linda istemci portunu otomatik olarak aç. Bu, sadece yönelticiniz UPnP&apos;i desteklediğinde ve etkin olduğunda çalışır.</translation>
+        <source>Automatically open the dCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Yönelticide dCoin istemci portunu otomatik olarak aç. Bu, sadece yönelticiniz UPnP&apos;i desteklediğinde ve etkin olduğunda çalışır.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1179,8 +1179,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Linda network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Linda ağına bir SOCKS vekil sunucusu yoluyla bağlan (örn. Tor yoluyla bağlanıldığında)</translation>
+        <source>Connect to the dCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>dCoin ağına bir SOCKS vekil sunucusu yoluyla bağlan (örn. Tor yoluyla bağlanıldığında)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1254,8 +1254,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Linda.</source>
-        <translation>Kullanıcı arabirimi dili buradan ayarlanabilir. Ayar, Linda yeniden başlatıldığında etkin olacaktır.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting dCoin.</source>
+        <translation>Kullanıcı arabirimi dili buradan ayarlanabilir. Ayar, dCoin yeniden başlatıldığında etkin olacaktır.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1321,8 +1321,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Linda.</source>
-        <translation>Bu ayar, Linda&apos;i yeniden başlattıktan sonra etkin olacaktır.</translation>
+        <source>This setting will take effect after restarting dCoin.</source>
+        <translation>Bu ayar, dCoin&apos;i yeniden başlattıktan sonra etkin olacaktır.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1340,8 +1340,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Linda network after a connection is established, but this process has not completed yet.</source>
-        <translation>Görüntülenen bilginin tarihi geçmiş olabilir. Cüzdanınız, bağlantı kurulduktan sonra otomatik olarak Linda ağı ile senkronize olur ancak bu süreç, henüz tamamlanmamıştır.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the dCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Görüntülenen bilginin tarihi geçmiş olabilir. Cüzdanınız, bağlantı kurulduktan sonra otomatik olarak dCoin ağı ile senkronize olur ancak bu süreç, henüz tamamlanmamıştır.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1414,7 +1414,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start Linda: click-to-pay handler</source>
+        <source>Cannot start dCoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1582,8 +1582,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Linda-Qt help message to get a list with possible Linda command-line options.</source>
-        <translation>Muhtemel Linda komut satırı seçeneklerinin bir listesini getirmek için Linda-Qt yardım mesajını göster</translation>
+        <source>Show the dCoin-Qt help message to get a list with possible dCoin command-line options.</source>
+        <translation>Muhtemel dCoin komut satırı seçeneklerinin bir listesini getirmek için dCoin-Qt yardım mesajını göster</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1602,13 +1602,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>Linda - Debug window</source>
-        <translation>Linda - Hata ayıklama penceresi</translation>
+        <source>dCoin - Debug window</source>
+        <translation>dCoin - Hata ayıklama penceresi</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Linda Core</source>
-        <translation>Linda Core</translation>
+        <source>dCoin Core</source>
+        <translation>dCoin Core</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1617,8 +1617,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Linda debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Linda hata ayıklama günlük kütüğü dosyasını, mevcut veri klasöründen aç. Bu işlem, büyük günlük kütüğü dosyaları için birkaç saniye sürebilir.</translation>
+        <source>Open the dCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>dCoin hata ayıklama günlük kütüğü dosyasını, mevcut veri klasöründen aç. Bu işlem, büyük günlük kütüğü dosyaları için birkaç saniye sürebilir.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1627,8 +1627,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the Linda RPC console.</source>
-        <translation>Linda RPC konsoluna hoş geldiniz.</translation>
+        <source>Welcome to the dCoin RPC console.</source>
+        <translation>dCoin RPC konsoluna hoş geldiniz.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1821,8 +1821,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Linda address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Bir Linda adresi gir (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a dCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Bir dCoin adresi gir (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1921,8 +1921,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid Linda address</source>
-        <translation>UYARI: Geçersiz Linda adresi</translation>
+        <source>WARNING: Invalid dCoin address</source>
+        <translation>UYARI: Geçersiz dCoin adresi</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1995,8 +1995,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Linda address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Bir Linda adresi girin (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a dCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Bir dCoin adresi girin (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2056,8 +2056,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Linda address</source>
-        <translation>Bu Linda adresine sahip olduğunuzu ispatlamak için mesajı imzala</translation>
+        <source>Sign the message to prove you own this dCoin address</source>
+        <translation>Bu dCoin adresine sahip olduğunuzu ispatlamak için mesajı imzala</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2088,8 +2088,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Linda address</source>
-        <translation>Mesajın, belirtilen Linda adresiyle imzalandığından emin olmak için onu doğrula</translation>
+        <source>Verify the message to ensure it was signed with the specified dCoin address</source>
+        <translation>Mesajın, belirtilen dCoin adresiyle imzalandığından emin olmak için onu doğrula</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2099,8 +2099,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Linda address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Bir Linda adresi girin (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a dCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Bir dCoin adresi girin (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2109,8 +2109,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Linda signature</source>
-        <translation>Linda imzası gir</translation>
+        <source>Enter dCoin signature</source>
+        <translation>dCoin imzası gir</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2688,8 +2688,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+173"/>
-        <source>Linda version</source>
-        <translation>Linda versiyonu</translation>
+        <source>dCoin version</source>
+        <translation>dCoin versiyonu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2698,8 +2698,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or Lindad</source>
-        <translation>-sunucu veya Lindad&apos;ye komut gönder</translation>
+        <source>Send command to -server or dCoind</source>
+        <translation>-sunucu veya dCoind&apos;ye komut gönder</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2718,13 +2718,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: Linda.conf)</source>
-        <translation>Konfigürasyon dosyasını belirt (varsayılan: Linda.conf)</translation>
+        <source>Specify configuration file (default: dCoin.conf)</source>
+        <translation>Konfigürasyon dosyasını belirt (varsayılan: dCoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Lindad.pid)</source>
-        <translation>pid dosyasını belirt (varsayılan: Linda.pid)</translation>
+        <source>Specify pid file (default: dCoind.pid)</source>
+        <translation>pid dosyasını belirt (varsayılan: dCoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2741,13 +2741,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=Lindarpc
+rpcuser=dCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Linda Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;dCoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2853,8 +2853,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Linda Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Linda will not work properly.</source>
-        <translation>Uyarı: Lütfen bilgisayarınızın tarih ve saatinin doğru olduğunu kontrol ediniz! Saatiniz yanlış ise, Linda düzgün çalışmayacaktır.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong dCoin will not work properly.</source>
+        <translation>Uyarı: Lütfen bilgisayarınızın tarih ve saatinin doğru olduğunu kontrol ediniz! Saatiniz yanlış ise, dCoin düzgün çalışmayacaktır.</translation>
     </message>
     <message>
         <location line="+132"/>
@@ -3160,8 +3160,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Linda Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+10"/>
-        <source>Initialization sanity check failed. Linda is shutting down.</source>
-        <translation>Başlangıç uygunluk kontrolü başarısız oldu. Linda kapatılıyor.</translation>
+        <source>Initialization sanity check failed. dCoin is shutting down.</source>
+        <translation>Başlangıç uygunluk kontrolü başarısız oldu. dCoin kapatılıyor.</translation>
     </message>
     <message>
         <location line="+50"/>
@@ -3225,13 +3225,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Linda Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Linda</source>
-        <translation>wallet.dat yüklenirken hata: Cüzdan, daha yeni bir Linda versiyonuna ihtiyaç duyuyor.</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of dCoin</source>
+        <translation>wallet.dat yüklenirken hata: Cüzdan, daha yeni bir dCoin versiyonuna ihtiyaç duyuyor.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Linda to complete</source>
-        <translation>Cüzdanın yeniden yazılması gerekmektedir: Tamamlamak için Linda&apos;i yeniden başlatın</translation>
+        <source>Wallet needed to be rewritten: restart dCoin to complete</source>
+        <translation>Cüzdanın yeniden yazılması gerekmektedir: Tamamlamak için dCoin&apos;i yeniden başlatın</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3295,8 +3295,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Linda Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+125"/>
-        <source>Unable to bind to %s on this computer. Linda is probably already running.</source>
-        <translation>Bu bilgisayarda %s bağlanamadı. Linda muhtemelen halen çalışmaktadır.</translation>
+        <source>Unable to bind to %s on this computer. dCoin is probably already running.</source>
+        <translation>Bu bilgisayarda %s bağlanamadı. dCoin muhtemelen halen çalışmaktadır.</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3335,7 +3335,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Linda Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Linda is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. dCoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

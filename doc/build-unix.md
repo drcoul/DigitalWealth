@@ -39,7 +39,7 @@ System requirements
 --------------------
 
 C++ compilers are memory-hungry. It is recommended to have at least 1 GB of
-memory available when compiling LindaCoin Core. With 512MB of memory or less
+memory available when compiling dCoinCoin Core. With 512MB of memory or less
 compilation will take much longer due to swap thrashing.
 
 Dependency Build Instructions: Ubuntu & Debian
@@ -96,7 +96,7 @@ Optional:
 Dependencies for the GUI: Ubuntu & Debian
 -----------------------------------------
 
-If you want to build Linda-Qt, make sure that the required packages for Qt development
+If you want to build dCoin-Qt, make sure that the required packages for Qt development
 are installed. Qt 5 is necessary to build the GUI.
 If both Qt 4 and Qt 5 are installed, Qt 5 will be used.
 
@@ -108,7 +108,7 @@ libqrencode (optional) can be installed with:
 
     sudo apt-get install libqrencode-dev
 
-Once these are installed, they will be found by configure and a Linda-qt executable will be
+Once these are installed, they will be found by configure and a dCoin-qt executable will be
 built by default.
 
 ```
@@ -127,24 +127,24 @@ cd secp256k1/
 make
 cd ..
 make -f makefile.unix
-strip Lindad
+strip dCoind
 
-To Build Lindad
+To Build dCoind
 --------
 
 With UPNP:
 
     cd src && \
     make -f makefile.unix && \
-    strip Lindad
+    strip dCoind
 
 (Recommended) Without UPNP:
 
     cd src && \
     make -f makefile.unix USE_UPNP= && \
-    strip Lindad
+    strip dCoind
 
-To Build Linda-QT
+To Build dCoin-QT
 --------
 
 With UPNP:

@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Linda</source>
-        <translation>Über Linda</translation>
+        <source>About dCoin</source>
+        <translation>Über dCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Linda&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Linda&lt;/b&gt; Version</translation>
+        <source>&lt;b&gt;dCoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;dCoin&lt;/b&gt; Version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Linda developers</source>
+Copyright © 2014 The dCoin developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -58,8 +58,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your Linda addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Das sind Ihre Linda Adressen um Zahlungen zu erhalten. Sie werden vielleicht verschiedene an jeden Sender vergeben, damit Sie im Auge behalten können wer Sie bezahlt.</translation>
+        <source>These are your dCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Das sind Ihre dCoin Adressen um Zahlungen zu erhalten. Sie werden vielleicht verschiedene an jeden Sender vergeben, damit Sie im Auge behalten können wer Sie bezahlt.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -73,8 +73,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a Linda address</source>
-        <translation>Signieren Sie eine Nachricht um zu beweisen, dass Sie eine Linda Adresse besitzen</translation>
+        <source>Sign a message to prove you own a dCoin address</source>
+        <translation>Signieren Sie eine Nachricht um zu beweisen, dass Sie eine dCoin Adresse besitzen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -88,8 +88,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified Linda address</source>
-        <translation>Verifizieren Sie ob eine Nachricht einer bestimmten Linda Adresse signiert wurde</translation>
+        <source>Verify a message to ensure it was signed with a specified dCoin address</source>
+        <translation>Verifizieren Sie ob eine Nachricht einer bestimmten dCoin Adresse signiert wurde</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -256,8 +256,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>Linda will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Linda wird sich schließen um den Verschlüsselungsvorgang abzuschließen. Beachten Sie, dass die Verschlüsselung Ihrer Wallet keinen vollständigen Schutz vor Diebstahl Ihrer Coins duch auf Ihrem Computer installierte Malware gewährleistet</translation>
+        <source>dCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>dCoin wird sich schließen um den Verschlüsselungsvorgang abzuschließen. Beachten Sie, dass die Verschlüsselung Ihrer Wallet keinen vollständigen Schutz vor Diebstahl Ihrer Coins duch auf Ihrem Computer installierte Malware gewährleistet</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -350,8 +350,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Linda</source>
-        <translation>Informationen über Linda anzeigen</translation>
+        <source>Show information about dCoin</source>
+        <translation>Informationen über dCoin anzeigen</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -390,13 +390,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a Linda address</source>
-        <translation>Senden Sie Coins an eine Linda Adresse</translation>
+        <source>Send coins to a dCoin address</source>
+        <translation>Senden Sie Coins an eine dCoin Adresse</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for Linda</source>
-        <translation>Konfigurationsoptionen für Linda ändern</translation>
+        <source>Modify configuration options for dCoin</source>
+        <translation>Konfigurationsoptionen für dCoin ändern</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -436,8 +436,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+551"/>
-        <source>Linda</source>
-        <translation>Linda</translation>
+        <source>dCoin</source>
+        <translation>dCoin</translation>
     </message>
     <message>
         <location line="-551"/>
@@ -446,8 +446,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About Linda</source>
-        <translation>&amp;Über Linda</translation>
+        <source>&amp;About dCoin</source>
+        <translation>&amp;Über dCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -498,13 +498,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>Linda client</source>
+        <source>dCoin client</source>
         <translation type="unfinished"/>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Linda network</source>
-        <translation><numerusform>%n aktive Verbindung zum Linda Netzwerk</numerusform><numerusform>%n aktive Verbindungen zum Linda Netzwerk</numerusform></translation>
+        <source>%n active connection(s) to dCoin network</source>
+        <translation><numerusform>%n aktive Verbindung zum dCoin Netzwerk</numerusform><numerusform>%n aktive Verbindungen zum dCoin Netzwerk</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -597,8 +597,8 @@ Adresse: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Linda address or malformed URI parameters.</source>
-        <translation>Die URI kann nicht erkannt werden! Die Ursache hierfür kann eine ungültige Linda Adresse oder eine fehlerhafte Angabe der URI Parameter sein.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid dCoin address or malformed URI parameters.</source>
+        <translation>Die URI kann nicht erkannt werden! Die Ursache hierfür kann eine ungültige dCoin Adresse oder eine fehlerhafte Angabe der URI Parameter sein.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -720,8 +720,8 @@ Adresse: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. Linda can no longer continue safely and will quit.</source>
-        <translation>Ein fataler Fehler ist aufgetreten. Linda kann nicht fortgesetzt werden und wird beendet.</translation>
+        <source>A fatal error occurred. dCoin can no longer continue safely and will quit.</source>
+        <translation>Ein fataler Fehler ist aufgetreten. dCoin kann nicht fortgesetzt werden und wird beendet.</translation>
     </message>
 </context>
 <context>
@@ -1040,8 +1040,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Linda address.</source>
-        <translation>Die eingegebene Adresse &quot;%1&quot; ist keine gültige Linda Adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid dCoin address.</source>
+        <translation>Die eingegebene Adresse &quot;%1&quot; ist keine gültige dCoin Adresse.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1059,7 +1059,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>Linda-Qt</source>
+        <source>dCoin-Qt</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1132,13 +1132,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Linda after logging in to the system.</source>
-        <translation>Automatisch Linda starten beim Einloggen in das System.</translation>
+        <source>Automatically start dCoin after logging in to the system.</source>
+        <translation>Automatisch dCoin starten beim Einloggen in das System.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Linda on system login</source>
-        <translation>&amp;Starte Linda bei Systemstart</translation>
+        <source>&amp;Start dCoin on system login</source>
+        <translation>&amp;Starte dCoin bei Systemstart</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1147,8 +1147,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Linda client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatisch den Linda client port auf dem Router öffnen. Das funktioniert nur wenn der Router UPnP unterstützt und UPnP aktiviert ist.</translation>
+        <source>Automatically open the dCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatisch den dCoin client port auf dem Router öffnen. Das funktioniert nur wenn der Router UPnP unterstützt und UPnP aktiviert ist.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1157,7 +1157,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Linda network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the dCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1232,7 +1232,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Linda.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting dCoin.</source>
         <translation>Die Sprache der GUI kann hier verändert werden. Die Einstellung wird nach einem Neustart übernommen.</translation>
     </message>
     <message>
@@ -1243,7 +1243,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Wählen Sie die Standarduntereinheit, die in der Benutzeroberfläche und beim Überweisen von Lindas angezeigt werden soll.</translation>
+        <translation>Wählen Sie die Standarduntereinheit, die in der Benutzeroberfläche und beim Überweisen von dCoins angezeigt werden soll.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -1299,7 +1299,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Linda.</source>
+        <source>This setting will take effect after restarting dCoin.</source>
         <translation>Diese Einstellung wird nach einem Neustart übernommen.</translation>
     </message>
     <message>
@@ -1318,8 +1318,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Linda network after a connection is established, but this process has not completed yet.</source>
-        <translation>Die angezeigte Information kann falsch sein. Die Brieftasche synchronisiert automatisch mit dem Linda Netzwerk nachdem eine Verbindung zustande gekommen ist, aber dieser Prozess ist nicht abgeschlossen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the dCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Die angezeigte Information kann falsch sein. Die Brieftasche synchronisiert automatisch mit dem dCoin Netzwerk nachdem eine Verbindung zustande gekommen ist, aber dieser Prozess ist nicht abgeschlossen.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1392,7 +1392,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start Linda: click-to-pay handler</source>
+        <source>Cannot start dCoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1560,7 +1560,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Linda-Qt help message to get a list with possible Linda command-line options.</source>
+        <source>Show the dCoin-Qt help message to get a list with possible dCoin command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1580,13 +1580,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>Linda - Debug window</source>
-        <translation>Linda - Debug Fenster</translation>
+        <source>dCoin - Debug window</source>
+        <translation>dCoin - Debug Fenster</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Linda Core</source>
-        <translation>Linda Kern</translation>
+        <source>dCoin Core</source>
+        <translation>dCoin Kern</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1595,7 +1595,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Linda debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the dCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1605,7 +1605,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the Linda RPC console.</source>
+        <source>Welcome to the dCoin RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1799,7 +1799,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Linda address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a dCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1899,8 +1899,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid Linda address</source>
-        <translation>Warnung: Ungültige Linda Adresse</translation>
+        <source>WARNING: Invalid dCoin address</source>
+        <translation>Warnung: Ungültige dCoin Adresse</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1973,7 +1973,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Linda address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a dCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -2034,8 +2034,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Linda address</source>
-        <translation>Signiere die Nachricht um zu beweisen das du Besitzer dieser Linda Adresse bist.</translation>
+        <source>Sign the message to prove you own this dCoin address</source>
+        <translation>Signiere die Nachricht um zu beweisen das du Besitzer dieser dCoin Adresse bist.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2066,7 +2066,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Linda address</source>
+        <source>Verify the message to ensure it was signed with the specified dCoin address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2077,7 +2077,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Linda address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a dCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2087,8 +2087,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Linda signature</source>
-        <translation>Linda Signatur eingeben</translation>
+        <source>Enter dCoin signature</source>
+        <translation>dCoin Signatur eingeben</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2666,7 +2666,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+173"/>
-        <source>Linda version</source>
+        <source>dCoin version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2676,8 +2676,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or Lindad</source>
-        <translation>Kommando versenden an -server oder Lindad </translation>
+        <source>Send command to -server or dCoind</source>
+        <translation>Kommando versenden an -server oder dCoind </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2696,13 +2696,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: Linda.conf)</source>
-        <translation>Konfigurationsdatei angeben (Standard: Linda.conf)</translation>
+        <source>Specify configuration file (default: dCoin.conf)</source>
+        <translation>Konfigurationsdatei angeben (Standard: dCoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Lindad.pid)</source>
-        <translation>PID Datei angeben (Standard: Linda.pid)</translation>
+        <source>Specify pid file (default: dCoind.pid)</source>
+        <translation>PID Datei angeben (Standard: dCoin.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2719,13 +2719,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=Lindarpc
+rpcuser=dCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Linda Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;dCoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2831,8 +2831,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Linda Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Linda will not work properly.</source>
-        <translation>Wanung : Bitte prüfen Sie ob Datum und Uhrzeit richtig eingestellt sind. Wenn das Datum falsch ist wird Linda nicht richtig funktionieren.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong dCoin will not work properly.</source>
+        <translation>Wanung : Bitte prüfen Sie ob Datum und Uhrzeit richtig eingestellt sind. Wenn das Datum falsch ist wird dCoin nicht richtig funktionieren.</translation>
     </message>
     <message>
         <location line="+132"/>
@@ -3138,7 +3138,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Linda Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+10"/>
-        <source>Initialization sanity check failed. Linda is shutting down.</source>
+        <source>Initialization sanity check failed. dCoin is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3203,13 +3203,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Linda Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Linda</source>
-        <translation>Fehler beim Laden wallet.dat. Brieftasche benötigt neuere Version der Linda Brieftasche.</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of dCoin</source>
+        <translation>Fehler beim Laden wallet.dat. Brieftasche benötigt neuere Version der dCoin Brieftasche.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Linda to complete</source>
-        <translation>Brieftasche muss neu geschrieben werden. Starte die Linda Brieftasche neu zum komplettieren.</translation>
+        <source>Wallet needed to be rewritten: restart dCoin to complete</source>
+        <translation>Brieftasche muss neu geschrieben werden. Starte die dCoin Brieftasche neu zum komplettieren.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3273,7 +3273,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Linda Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+125"/>
-        <source>Unable to bind to %s on this computer. Linda is probably already running.</source>
+        <source>Unable to bind to %s on this computer. dCoin is probably already running.</source>
         <translation>Fehler beim anbinden %s auf diesem Computer. BlaclCoin Client läuft wahrscheinlich bereits.</translation>
     </message>
     <message>
@@ -3313,7 +3313,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Linda Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Linda is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. dCoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

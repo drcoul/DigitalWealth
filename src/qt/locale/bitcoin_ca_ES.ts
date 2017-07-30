@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Linda</source>
-        <translation>Sobre Linda</translation>
+        <source>About dCoin</source>
+        <translation>Sobre dCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Linda&lt;/b&gt; version</source>
-        <translation>versió &lt;b&gt;Linda&lt;/b&gt;</translation>
+        <source>&lt;b&gt;dCoin&lt;/b&gt; version</source>
+        <translation>versió &lt;b&gt;dCoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Linda developers</source>
+Copyright © 2014 The dCoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Linda developers</translation>
+Copyright © 2014 The dCoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your Linda addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Aquestes són les teves adreces de Linda per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
+        <source>These are your dCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Aquestes són les teves adreces de dCoin per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a Linda address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça Linda</translation>
+        <source>Sign a message to prove you own a dCoin address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça dCoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified Linda address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça Linda especificada.</translation>
+        <source>Verify a message to ensure it was signed with a specified dCoin address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça dCoin especificada.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>Linda will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Linda tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació del seu moneder no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
+        <source>dCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>dCoin tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació del seu moneder no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -352,8 +352,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Linda</source>
-        <translation>Mostra informació sobre Linda</translation>
+        <source>Show information about dCoin</source>
+        <translation>Mostra informació sobre dCoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -392,13 +392,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a Linda address</source>
-        <translation>Enviar monedes a una adreça Linda</translation>
+        <source>Send coins to a dCoin address</source>
+        <translation>Enviar monedes a una adreça dCoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for Linda</source>
-        <translation>Modificar les opcions de configuració per a Linda</translation>
+        <source>Modify configuration options for dCoin</source>
+        <translation>Modificar les opcions de configuració per a dCoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -438,8 +438,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+551"/>
-        <source>Linda</source>
-        <translation>Linda</translation>
+        <source>dCoin</source>
+        <translation>dCoin</translation>
     </message>
     <message>
         <location line="-551"/>
@@ -448,8 +448,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About Linda</source>
-        <translation>&amp;Sobre Linda</translation>
+        <source>&amp;About dCoin</source>
+        <translation>&amp;Sobre dCoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>Linda client</source>
-        <translation>Client Linda</translation>
+        <source>dCoin client</source>
+        <translation>Client dCoin</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Linda network</source>
-        <translation><numerusform>%n conexió activa a la xarxa Linda</numerusform><numerusform>%n conexions actives a la xarxa Linda</numerusform></translation>
+        <source>%n active connection(s) to dCoin network</source>
+        <translation><numerusform>%n conexió activa a la xarxa dCoin</numerusform><numerusform>%n conexions actives a la xarxa dCoin</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -596,8 +596,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Linda address or malformed URI parameters.</source>
-        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça Linda no vàlida o paràmetres URI malformats.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid dCoin address or malformed URI parameters.</source>
+        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça dCoin no vàlida o paràmetres URI malformats.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -719,8 +719,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. Linda can no longer continue safely and will quit.</source>
-        <translation>S&apos;ha produït un error fatal. Linda ja no pot continuar de forma segura i es tancarà.</translation>
+        <source>A fatal error occurred. dCoin can no longer continue safely and will quit.</source>
+        <translation>S&apos;ha produït un error fatal. dCoin ja no pot continuar de forma segura i es tancarà.</translation>
     </message>
 </context>
 <context>
@@ -1053,8 +1053,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Linda address.</source>
-        <translation>La direcció introduïda &quot;%1&quot; no és una adreça Linda vàlida.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid dCoin address.</source>
+        <translation>La direcció introduïda &quot;%1&quot; no és una adreça dCoin vàlida.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1072,8 +1072,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>Linda-Qt</source>
-        <translation>Linda-Qt</translation>
+        <source>dCoin-Qt</source>
+        <translation>dCoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1145,13 +1145,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Linda after logging in to the system.</source>
-        <translation>Inicia automàticament Linda després d&apos;entrar en el sistema.</translation>
+        <source>Automatically start dCoin after logging in to the system.</source>
+        <translation>Inicia automàticament dCoin després d&apos;entrar en el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Linda on system login</source>
-        <translation>&amp;Iniciar Linda amb l&apos;inici de sessió</translation>
+        <source>&amp;Start dCoin on system login</source>
+        <translation>&amp;Iniciar dCoin amb l&apos;inici de sessió</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1160,8 +1160,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Linda client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Obrir automàticament el port de client Linda en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
+        <source>Automatically open the dCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Obrir automàticament el port de client dCoin en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1170,8 +1170,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the Linda network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connecteu-vos a la xarxa Linda través d&apos;un proxy SOCKS (per exemple, quan es connecta a través de Tor).</translation>
+        <source>Connect to the dCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connecteu-vos a la xarxa dCoin través d&apos;un proxy SOCKS (per exemple, quan es connecta a través de Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1245,8 +1245,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Linda.</source>
-        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar Linda.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting dCoin.</source>
+        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar dCoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1312,8 +1312,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Linda.</source>
-        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar Linda.</translation>
+        <source>This setting will take effect after restarting dCoin.</source>
+        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar dCoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1331,8 +1331,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Linda network after a connection is established, but this process has not completed yet.</source>
-        <translation>La informació mostrada pot estar fora de data. El seu moneder es sincronitza automàticament amb la xarxa Linda després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the dCoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>La informació mostrada pot estar fora de data. El seu moneder es sincronitza automàticament amb la xarxa dCoin després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1405,7 +1405,7 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start Linda: click-to-pay handler</source>
+        <source>Cannot start dCoin: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1573,8 +1573,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Linda-Qt help message to get a list with possible Linda command-line options.</source>
-        <translation>Mostra el missatge d&apos;ajuda de Linda-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres Linda.</translation>
+        <source>Show the dCoin-Qt help message to get a list with possible dCoin command-line options.</source>
+        <translation>Mostra el missatge d&apos;ajuda de dCoin-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres dCoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1593,13 +1593,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Linda - Debug window</source>
-        <translation>Linda - Finestra Depuració</translation>
+        <source>dCoin - Debug window</source>
+        <translation>dCoin - Finestra Depuració</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Linda Core</source>
-        <translation>Nucli Linda</translation>
+        <source>dCoin Core</source>
+        <translation>Nucli dCoin</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1608,8 +1608,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Linda debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Obriu el fitxer de registre de depuració Linda des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
+        <source>Open the dCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Obriu el fitxer de registre de depuració dCoin des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1618,8 +1618,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
-        <source>Welcome to the Linda RPC console.</source>
-        <translation>Benvingut a la consola RPC de Linda.</translation>
+        <source>Welcome to the dCoin RPC console.</source>
+        <translation>Benvingut a la consola RPC de dCoin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1812,8 +1812,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a Linda address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introdueix una adreça Linda (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a dCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introdueix una adreça dCoin (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1912,8 +1912,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+247"/>
-        <source>WARNING: Invalid Linda address</source>
-        <translation>ADVERTÈNCIA: Direcció Linda invàlida</translation>
+        <source>WARNING: Invalid dCoin address</source>
+        <translation>ADVERTÈNCIA: Direcció dCoin invàlida</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1986,8 +1986,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Linda address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introdueix una adreça Linda (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a dCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introdueix una adreça dCoin (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2047,8 +2047,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Linda address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça Linda</translation>
+        <source>Sign the message to prove you own this dCoin address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça dCoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2079,8 +2079,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Linda address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça Linda especificada.</translation>
+        <source>Verify the message to ensure it was signed with the specified dCoin address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça dCoin especificada.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2090,8 +2090,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Linda address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introdueix una adreça Linda (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a dCoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introdueix una adreça dCoin (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2100,8 +2100,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Linda signature</source>
-        <translation>Introduïu la signatura Linda</translation>
+        <source>Enter dCoin signature</source>
+        <translation>Introduïu la signatura dCoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2679,8 +2679,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+173"/>
-        <source>Linda version</source>
-        <translation>versió Linda</translation>
+        <source>dCoin version</source>
+        <translation>versió dCoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2689,8 +2689,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or Lindad</source>
-        <translation>Enviar comandes a -server o Lindad</translation>
+        <source>Send command to -server or dCoind</source>
+        <translation>Enviar comandes a -server o dCoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2709,13 +2709,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: Linda.conf)</source>
-        <translation>Especifiqueu el fitxer de configuració (per defecte: Linda.conf)</translation>
+        <source>Specify configuration file (default: dCoin.conf)</source>
+        <translation>Especifiqueu el fitxer de configuració (per defecte: dCoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: Lindad.pid)</source>
-        <translation>Especificar arxiu pid (per defecte: Lindad.pid)</translation>
+        <source>Specify pid file (default: dCoind.pid)</source>
+        <translation>Especificar arxiu pid (per defecte: dCoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2732,13 +2732,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=Lindarpc
+rpcuser=dCoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Linda Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;dCoin Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2844,8 +2844,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Linda Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="-103"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Linda will not work properly.</source>
-        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni Linda no funcionarà correctament.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong dCoin will not work properly.</source>
+        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni dCoin no funcionarà correctament.</translation>
     </message>
     <message>
         <location line="+132"/>
@@ -3152,7 +3152,7 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+10"/>
-        <source>Initialization sanity check failed. Linda is shutting down.</source>
+        <source>Initialization sanity check failed. dCoin is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3217,13 +3217,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Linda</source>
-        <translation>Error en carregar wallet.dat: El moneder requereix la versió més recent de Linda</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of dCoin</source>
+        <translation>Error en carregar wallet.dat: El moneder requereix la versió més recent de dCoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Linda to complete</source>
-        <translation>El moneder necessita ser reescrita: reiniciar Linda per completar</translation>
+        <source>Wallet needed to be rewritten: restart dCoin to complete</source>
+        <translation>El moneder necessita ser reescrita: reiniciar dCoin per completar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3287,8 +3287,8 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+125"/>
-        <source>Unable to bind to %s on this computer. Linda is probably already running.</source>
-        <translation>No es pot enllaçar a %s en aquest equip. Linda probablement ja estigui en funcionament.</translation>
+        <source>Unable to bind to %s on this computer. dCoin is probably already running.</source>
+        <translation>No es pot enllaçar a %s en aquest equip. dCoin probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-101"/>
@@ -3327,7 +3327,7 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Linda is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. dCoin is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

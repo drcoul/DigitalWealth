@@ -50,12 +50,12 @@ bool AppInit(int argc, char* argv[])
         if (mapArgs.count("-?") || mapArgs.count("--help"))
         {
             // First part of help message is specific to bitcoind / RPC client
-            std::string strUsage = _("Linda version") + " " + FormatFullVersion() + "\n\n" +
+            std::string strUsage = _("dCoin version") + " " + FormatFullVersion() + "\n\n" +
                 _("Usage:") + "\n" +
-                  "  Lindad [options]                     " + "\n" +
-                  "  Lindad [options] <command> [params]  " + _("Send command to -server or Lindad") + "\n" +
-                  "  Lindad [options] help                " + _("List commands") + "\n" +
-                  "  Lindad [options] help <command>      " + _("Get help for a command") + "\n";
+                  "  dCoind [options]                     " + "\n" +
+                  "  dCoind [options] <command> [params]  " + _("Send command to -server or dCoind") + "\n" +
+                  "  dCoind [options] help                " + _("List commands") + "\n" +
+                  "  dCoind [options] help <command>      " + _("Get help for a command") + "\n";
 
             strUsage += "\n" + HelpMessage();
 
@@ -65,7 +65,7 @@ bool AppInit(int argc, char* argv[])
 
         // Command-line RPC
         for (int i = 1; i < argc; i++)
-            if (!IsSwitchChar(argv[i][0]) && !boost::algorithm::istarts_with(argv[i], "Linda:"))
+            if (!IsSwitchChar(argv[i][0]) && !boost::algorithm::istarts_with(argv[i], "dCoin:"))
                 fCommandLine = true;
 
         if (fCommandLine)
